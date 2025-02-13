@@ -39,17 +39,9 @@ Example Gameplay
 Welcome to Tic Tac Toe!
 Players take turns placing their marks (X or O) on the board.
 Enter your move as row and column numbers (e.g., '1 2').
-
-   0   1   2
-  -----------
-0 |   |   |   |
-  -----------
-1 |   |   |   |
-  -----------
-2 |   |   |   |
-  -----------
+ 
 Player X, enter row and column (0-2, space-separated): 0 0
 
 Author
 
-Developed by [Your Name]
+Developed by Brianna Pilarte
